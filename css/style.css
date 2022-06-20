@@ -1,0 +1,30 @@
+*
+{
+    background-color: black;
+}
+
+h1,h2
+{
+    display: block;
+    margin: auto;
+    padding: 20px;
+    color: azure;
+    animation: neon 5s infinite;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+@keyframes neon {
+    0%, 39%, 41%, 59%, 61%, 100% {
+        text-shadow: white 0 0 12px, #ff3aad 0 0 24px, #ff3aad 0 0 36px;
+    }
+    40%, 60% {
+        text-shadow: none;
+    }
+}
+
+iframe
+{
+    display: block;
+    margin: auto;
+}
