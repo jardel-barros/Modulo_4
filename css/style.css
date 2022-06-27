@@ -27,4 +27,7 @@ iframe
 {
     display: block;
     margin: auto;
+    border: 5px solid rgb(17, 209, 0);
+    width: 400px;
+    height: 400px;
 }
