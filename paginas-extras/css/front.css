@@ -1,6 +1,7 @@
 *
 {
-    background-color: black;
+    background: black;
+    background-image: url(/img/fundo.png);
 }
 
 h1,h2
@@ -14,11 +15,6 @@ h1,h2
     text-align: center;
 }
 
-p
-{
-    text-align: center;
-    color: aliceblue;
-}
 
 @keyframes neon {
     0%, 39%, 41%, 59%, 61%, 100% {
@@ -37,5 +33,4 @@ iframe
     width: 700px;
     height: 700px;
 }
-
 
