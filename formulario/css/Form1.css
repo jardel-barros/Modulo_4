@@ -1,0 +1,47 @@
+
+
+
+
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(75, 231, 231);
+}
+
+body
+{
+    background-color: black;
+}
+
+h1
+{
+    text-align: center;
+}
+
+input
+{
+    color: black;
+}
+
+
+p
+{
+    text-align: center;
+}
+
+#ano
+{
+    background-color: rgb(75, 231, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#ano1
+{
+    background-color: rgb(15, 218, 49);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#iidade
+{
+    color: rgb(241, 218, 10);
+}
